@@ -1,0 +1,3 @@
+node_modules
+master-key.txt
+mongocryptd.pid
